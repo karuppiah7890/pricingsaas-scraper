@@ -1,0 +1,7 @@
+pricingsaas-scraper
+
+*.env*
+
+!.env.sample
+
+*.json
